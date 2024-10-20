@@ -1,0 +1,5 @@
+media-venv
+/app/upload
+uploadFile
+Dockerfile
+docker-compose.yaml
